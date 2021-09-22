@@ -7,7 +7,7 @@ select your game
 
 # Ticktacktoe
 
-play with numpad oder numbers
+play with numpad or numbers
 
 7|8|9
 4|5|6
